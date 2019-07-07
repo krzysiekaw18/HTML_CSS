@@ -1,0 +1,45 @@
+<p> - paragraph
+<br/> - break
+<b> - bold
+<i> - italic
+<u> - underline
+<s> - strike
+<font> - font
+<strong> - bold with semantic value
+<em> - (emphasis) italic with semantic value
+<sup> - superscript
+<sub> - subscript
+<h1><h2>....<h6> - headers (h1 - the most important and the biggest)
+<pre> - pre-formatted
+<code> - insert text is code
+<var> - variable
+<cite> - cite
+<blockquote>
+<dfn> - define
+<address> - address (semantic)
+<acronym> - acronym (semantic)
+<abbr> - abbreviation (semantic)
+<ol> - ordered list
+<li> - list item
+<ul> - unordered list
+<dl> - definition list
+<dt> - definition term
+<dd> - definition data
+<fieldset>
+<legend>
+<hr> - horizontal row
+<table> - table
+<tr> - table row
+<td> - table data (one cell)
+<th> - table header
+<caption> - (semantic)
+<thead> - table head
+<tfoot> - tble footer
+<tbody> - table body
+<img> - image
+<a> - anchor
+<frameset>
+<frame>
+<iframe>
+<form>
+
