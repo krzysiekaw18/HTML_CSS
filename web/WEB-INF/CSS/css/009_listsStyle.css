@@ -1,0 +1,18 @@
+ul.unorderedList {
+    list-style-type: none;
+}
+
+ul.unorderedList li:before {
+    content: '';
+    display: inline-block;
+    height: 10px;
+    width: 10px;
+    background-size: 10px;
+    background-image: url("../image/check.png");
+    background-repeat: no-repeat;
+    margin-right: 5px;
+
+}
+ol.orderedList {
+    list-style-type: lower-alpha;
+}

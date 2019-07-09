@@ -1,0 +1,23 @@
+div.test {
+    /*border-top-style: dashed;*/
+    /*border-top-style: dotted;*/
+    /*border-top-style: double;*/
+    /*border-top-style: groove;*/
+    /*border-top-style: hidden;*/
+    /*border-top-style: inset;*/
+    /*border-top-style: outset;*/
+    /*border-top-style: ridge;*/
+    /*border-top-style: solid;*/
+    /*border-style: dotted;*/
+    /*border-style: solid dotted;*/
+    /*border-style: solid dotted double dashed;*/
+
+    /*border-style: solid;*/
+
+    /*border-top-width: 20px;*/
+    /*border-top-width: thin;*/
+    /*border-width: 5px;*/
+
+    /*border-color: brown aqua;*/
+    border: brown thin solid;
+}

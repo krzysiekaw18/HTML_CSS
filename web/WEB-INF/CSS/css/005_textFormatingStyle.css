@@ -1,0 +1,22 @@
+body {
+    /*text-decoration: underline;*/
+    font-size: 19px;
+}
+
+div.test {
+    color: #9999ff;
+    /*text-decoration: line-through;*/
+    /*text-decoration: overline line-through underline;*/
+    /*text-transform: capitalize;*/
+    /*text-transform: lowercase;*/
+    /*text-transform: uppercase;*/
+    /*text-align: center;*/
+    /*text-align: right;*/
+    /*text-align: justify;*/
+    line-height: 140%;
+    text-indent: 20px;
+    word-spacing: 1em;
+    letter-spacing: 0.2em;
+    white-space: pre; /*    nowrap, normal*/
+
+}

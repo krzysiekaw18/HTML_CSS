@@ -1,0 +1,18 @@
+div.menuLinks a:link, div.menuLinks a:visited {
+    color: green;
+    text-decoration: none;
+}
+
+/*div.menuLinks a:visited {*/
+/*    color: purple;*/
+/*    text-decoration: none;*/
+/*}*/
+
+div.menuLinks a:hover, div.menuLinks a:active {
+    color: yellow;
+    background-color: aquamarine;
+}
+
+/*div.menuLinks a:active {*/
+/*    color: red;*/
+/*}*/

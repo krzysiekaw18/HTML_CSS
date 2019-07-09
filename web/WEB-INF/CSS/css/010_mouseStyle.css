@@ -1,0 +1,10 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+span.help {
+    /*cursor: help;*/
+    cursor: progress;
+    /*cursor: e-resize;*/
+}
