@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.square {
+    position: absolute;
+    left: 0;
+    width: 200px;
+    height: 200px;
+}
